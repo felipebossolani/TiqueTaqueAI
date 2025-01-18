@@ -37,6 +37,11 @@ npm run dev
 http://localhost:5173
 ```
 
+## Acesso via GitHub Pages
+
+O aplicativo está disponível online em:
+[https://felipebossolani.github.io/TiqueTaqueAI/](https://felipebossolani.github.io/TiqueTaqueAI/)
+
 ## Estrutura do Projeto
 
 ```
@@ -59,12 +64,6 @@ TiqueTaqueAI/
 - Interface responsiva e moderna
 - Tipagem TypeScript para melhor segurança do código
 
-## Contribuição
+## Deploy Automático
 
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Faça push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
+O projeto está configurado com GitHub Actions para deploy automático na branch `gh-pages` sempre que houver alterações na branch `main`.
