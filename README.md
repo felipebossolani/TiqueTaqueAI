@@ -64,6 +64,10 @@ TiqueTaqueAI/
 - Interface responsiva e moderna
 - Tipagem TypeScript para melhor segurança do código
 
+## Artigos Relacionados
+
+- [Automatizando Frontend com Cline](https://dev.to/felipebossolani/automatizando-frontend-com-cline-299a) - Blog post detalhando o desenvolvimento deste projeto
+
 ## Deploy Automático
 
 O projeto está configurado com GitHub Actions para deploy automático na branch `gh-pages` sempre que houver alterações na branch `main`.
